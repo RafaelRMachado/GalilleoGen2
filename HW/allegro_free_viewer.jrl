@@ -1,0 +1,34 @@
+\t (00:00:00) allegro_free_viewer 17.2 S052 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Mon Aug 05 23:57:22 2019
+\t (00:00:00)         Host=RAFAEL-NOTEHP User=rafael Pid=796 CPUs=4
+\t (00:00:00) CmdLine= C:\Users\rafael\AppData\Local\Programs\Cadence Design Systems\17.2\tools\bin\allegro_free_viewer.exe
+\t (00:00:00) 
+\t (00:00:00) Starting new design...
+\i (00:00:00) trapsize 1589
+\i (00:00:00) trapsize 1517
+\i (00:00:00) trapsize 1589
+\i (00:00:01) trapsize 1063
+\i (00:00:01) trapsize 1589
+\i (00:00:01) trapsize 1063
+\i (00:00:01) trapsize 1540
+\i (00:00:04) open 
+\i (00:00:07) fillin "Galileo_G87173_204.brd"
+\t (00:00:07) Opening existing design...
+\i (00:00:08) trapsize 271739
+\d (00:00:08) Design opened: C:/Users/rafael/Desktop/FACENS-EngenhariaDeProduto/EP2/GalileuGen2/Galileo_G87173_204.brd
+\i (00:00:12) zoom fit 
+\i (00:00:12) trapsize 26042
+\i (00:00:15) zoom out 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 1865.000 1246.791
+\i (00:00:15) trapsize 52085
+\i (00:00:21) setwindow form.vf_vis
+\i (00:00:21) FORM vf_vis all_all_visible YES 
+\i (00:00:22) FORM vf_vis all_all_visible_pln YES 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) 3d_viewer 
+\i (00:00:28) setwindow pcb3D
+\i (00:00:28) trapsize 52085
+\i (00:10:39) setwindow pcb
+\i (00:10:39) exit 
+\t (00:10:39)     Journal end - Tue Aug 06 00:08:01 2019

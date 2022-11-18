@@ -1,0 +1,104 @@
+\t (00:00:00) allegro_free_viewer 17.2 S052 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Mon Aug 05 22:38:46 2019
+\t (00:00:00)         Host=RAFAEL-NOTEHP User=rafael Pid=3860 CPUs=4
+\t (00:00:00) CmdLine= C:\Users\rafael\AppData\Local\Programs\Cadence Design Systems\17.2\tools\bin\allegro_free_viewer.exe
+\t (00:00:00) 
+\t (00:00:00) Starting new design...
+\i (00:00:00) trapsize 1047
+\i (00:00:00) trapsize 1015
+\i (00:00:01) trapsize 1047
+\i (00:00:01) trapsize 789
+\i (00:00:01) trapsize 1047
+\i (00:00:01) trapsize 789
+\i (00:00:01) trapsize 1540
+\i (00:00:04) open 
+\i (00:00:07) fillin "Galileo_G87173_204.brd"
+\t (00:00:07) Opening existing design...
+\i (00:00:08) trapsize 271739
+\d (00:00:08) Design opened: C:/Users/rafael/Desktop/FACENS-EngenhariaDeProduto/EP2/GalileuGen2/Galileo_G87173_204.brd
+\e (00:00:18) Command not found: save
+\i (00:00:18) trapsize 271739
+\e (00:00:18) Command not found: save
+\i (00:00:18) trapsize 271739
+\e (00:00:19) Command not found: ~
+\i (00:00:19) trapsize 271739
+\i (00:00:26) zoom in 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 19207.305 552.652
+\i (00:00:26) trapsize 135870
+\i (00:00:27) zoom in 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom in 4995.348 552.652
+\i (00:00:27) trapsize 67935
+\i (00:00:28) zoom in 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in 4995.348 552.652
+\i (00:00:28) trapsize 33967
+\i (00:00:29) zoom in 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 4995.348 552.653
+\i (00:00:29) trapsize 16984
+\i (00:00:30) zoom out 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 4995.349 552.653
+\i (00:00:30) trapsize 33967
+\i (00:00:46) zoom fit 
+\i (00:00:46) trapsize 26042
+\i (00:00:52) 3d_viewer 
+\i (00:00:53) setwindow pcb3D
+\i (00:00:53) trapsize 26042
+\i (00:01:06) setwindow form.vf_vis
+\i (00:01:06) FORM vf_vis all_all_visible YES 
+\i (00:01:08) FORM vf_vis all_all_visible_pln YES 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) 3d_viewer 
+\i (00:01:13) setwindow pcb3D
+\i (00:01:13) trapsize 26042
+\i (00:01:37) view3d noenclosures 
+\i (00:01:41) view3d nopad 
+\i (00:01:46) view3d noshape_fill 
+\i (00:02:03) view3d zscale 
+\i (00:02:05) fillin "menu_cancel"
+\i (00:02:32) setwindow pcb
+\i (00:02:32) trapsize 34533
+\i (00:03:16) setwindow form.vf_vis
+\i (00:03:16) FORM vf_vis 1 all_colorvisible NO 
+\i (00:03:19) FORM vf_vis 1 all_colorvisible YES 
+\i (00:03:22) FORM vf_vis 2 all_colorvisible NO 
+\i (00:03:25) FORM vf_vis 2 all_colorvisible YES 
+\i (00:03:27) FORM vf_vis 1 all_colorvisible NO 
+\i (00:03:28) FORM vf_vis 3 all_colorvisible NO 
+\i (00:03:30) FORM vf_vis 4 all_colorvisible NO 
+\i (00:03:31) FORM vf_vis 5 all_colorvisible NO 
+\i (00:03:32) FORM vf_vis 6 all_colorvisible NO 
+\i (00:03:39) FORM vf_vis 7 all_colorvisible NO 
+\i (00:03:40) FORM vf_vis 7 all_colorvisible YES 
+\i (00:03:41) FORM vf_vis 7 all_colorvisible NO 
+\i (00:03:43) FORM vf_vis all_all_visible_pln NO 
+\i (00:03:45) FORM vf_vis all_all_visible NO 
+\i (00:03:46) FORM vf_vis all_all_visible YES 
+\i (00:03:52) FORM vf_vis 1 all_colorvisible NO 
+\i (00:03:53) FORM vf_vis 3 all_colorvisible NO 
+\i (00:03:54) FORM vf_vis 4 all_colorvisible NO 
+\i (00:03:58) FORM vf_vis 4 all_colorvisible YES 
+\i (00:03:59) FORM vf_vis 4 all_colorvisible NO 
+\i (00:04:01) FORM vf_vis 3 all_colorvisible YES 
+\i (00:04:02) FORM vf_vis 3 all_colorvisible NO 
+\i (00:04:05) FORM vf_vis 6 all_colorvisible NO 
+\i (00:04:07) FORM vf_vis 1 all_colorvisible YES 
+\i (00:04:08) FORM vf_vis 1 all_colorvisible NO 
+\i (00:04:10) FORM vf_vis 6 all_colorvisible YES 
+\i (00:04:12) FORM vf_vis 6 all_colorvisible NO 
+\i (00:04:13) FORM vf_vis 4 all_colorvisible YES 
+\i (00:04:14) FORM vf_vis 4 all_colorvisible NO 
+\i (00:04:15) FORM vf_vis 3 all_colorvisible YES 
+\i (00:04:17) FORM vf_vis 3 all_colorvisible NO 
+\i (00:04:19) FORM vf_vis 7 all_colorvisible NO 
+\i (00:04:21) FORM vf_vis all_all_visible NO 
+\i (00:04:23) FORM vf_vis plane_checkbox NO 
+\i (00:04:24) FORM vf_vis plane_checkbox YES 
+\i (00:04:25) FORM vf_vis plane_checkbox NO 
+\i (00:04:26) FORM vf_vis plane_checkbox YES 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) exit 
+\t (00:04:30)     Journal end - Mon Aug 05 22:43:16 2019
